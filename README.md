@@ -1,3 +1,5 @@
+<img width="1600" height="900" alt="ss2" src="https://github.com/user-attachments/assets/f49cd91f-9ba3-4fb4-bf07-ea119682b7b8" />
+<img width="1536" height="1024" alt="ss1" src="https://github.com/user-attachments/assets/ea6c5e75-d490-4d06-9fea-916ce8a0d160" />
 # campus_connect
 
 A new Flutter project.
